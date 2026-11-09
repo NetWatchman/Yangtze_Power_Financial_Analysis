@@ -21,6 +21,7 @@
 官方链接：https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-30/600900_20260430_WC8R.pdf
 
 🔍 核心分析结论
+
 财务结构稳健：2025年合并报表资产负债率为 58.27%（较2024年的 60.80% 有所下降），表明公司在保持庞大资产规模的同时，财务杠杆正在优化。
 
 极强的盈利能力：合并报表营业总收入 862.42 亿元，净利润 349.49 亿元，净利率高达 40.52%，体现了大水电资产极高的商业护城河。
@@ -30,10 +31,11 @@
 母子公司惊人差异：母公司营业收入仅为 252.18 亿元，但净利润高达 318.96 亿元。原因是母公司通过“长期股权投资”收取了子公司（如川云公司）的巨额分红（投资收益）。
 
 📈 可视化图表展示
-合并报表资产负债对比 (单位: 亿元)
-https://outputs/consolidated_balance_chart.png
+
+<img src="https://github.com/NetWatchman/Yangtze_Power_Financial_Analysis/blob/main/outputs/consolidated_balance_chart.png?raw=true" width="800" alt="资产负债对比图">
 
 💻 技术栈
+
 语言：Python 3.14.7
 
 库：Pandas (数据清洗与计算)、Matplotlib (数据可视化)、Openpyxl (读取 Excel)
